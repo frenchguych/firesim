@@ -1,16 +1,12 @@
 # firesim
 
-A new Flutter project.
+Another simulation written in Flutter and using the Flame Engine for rendering.
 
-## Getting Started
+Inspired by [this coding challenge](https://thecodingtrain.com/challenges/103-fire-effect) from The Coding Train.
 
-This project is a starting point for a Flutter application.
+Based on [this article](https://web.archive.org/web/20160418004150/http://freespace.virgin.net/hugo.elias/models/m_fire.htm).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/2527227/204901079-252767b2-977a-459d-a208-7c4b981951d0.mp4
+
